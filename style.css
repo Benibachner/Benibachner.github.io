@@ -10,12 +10,19 @@ div {
   border-radius: 10px;
 
   width: 60%;
+  max-width: 700px;
 
   margin: 5vh auto;
   padding: 4%;
   padding-top: 2%;
 
   font-family: Noto Sans Mono;
+}
+
+@media (max-width: 700px) {
+  div {
+    width: 90%;
+  }
 }
 
 h1,
