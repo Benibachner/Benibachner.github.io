@@ -1,0 +1,32 @@
+body {
+  background-color: #222225;
+}
+
+div {
+  background-color: #18181b;
+  color: #e2daa7;
+
+  border: 2px solid #e0bf02;
+  border-radius: 10px;
+
+  width: 60%;
+
+  margin: 5vh auto;
+  padding: 4%;
+  padding-top: 2%;
+
+  font-family: Noto Sans Mono;
+}
+
+h1,
+h2 {
+  font-family: Noto Sans;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #e0bf02;
+}
